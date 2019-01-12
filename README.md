@@ -1,6 +1,6 @@
 # Project4_Comparative-study-of-Support-Vector-Machines-and-Feed-forward-Multilayer-Perceptrons
 
-Project part of the module INM427, Neural Computing, City University, London.
+Project part of the module INM427, Neural Computing, City University, London. Synthesis of a full report.
 
 # 1. Motivation
 
